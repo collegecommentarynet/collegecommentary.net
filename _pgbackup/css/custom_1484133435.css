@@ -1,0 +1,64 @@
+
+
+/* Put your custom styles here */
+
+/* xs < 768 */
+
+@media screen and (max-width: 767px)
+{
+    body
+    {
+        font-size: 0.9em;
+        
+    }
+    h1{
+        font-size:em !important;
+    }
+}
+
+/* sm */
+
+@media screen and (min-width: 768px)
+{
+    body
+    {
+        font-size: 1em;
+    }
+}
+
+/* md */
+
+@media screen and (min-width: 992px)
+{
+    body
+    {
+        font-size: 1.2em;
+    }
+}
+
+/* lg */
+
+@media screen and (min-width: 1200px)
+{
+    body
+    {
+        font-size: 1.3em;
+    }
+}
+
+.op50
+{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.size_top_m_200
+{
+    overflow: hidden;
+}
+
+.img-center
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+

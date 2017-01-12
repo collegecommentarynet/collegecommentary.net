@@ -1,2 +1,0 @@
-# collegecommentary.net
-collegecommentary.net
